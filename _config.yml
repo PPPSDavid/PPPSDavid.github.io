@@ -3,18 +3,18 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
+title: David's Site
+email: pppsdavid@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+keywords: ["blog", "notes"]
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/Beijing
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,11 +33,11 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: David Yu
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  job: "Student"
+  bio: "CS/ Economics student @ Cornell"
+  email: yy743@cornell.edu
   disqus-shortname:
   twitter: #username
   facebook: #username
